@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UnitConverter</string>
+    <string name="kilos">&#160;Kilos&#160;</string>
+    <string name="pound">Pounds</string>
+    <string name="edt">Enter value</string>
+    <string name="btn">Convert</string>
+
+</resources>
