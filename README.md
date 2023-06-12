@@ -1,5 +1,5 @@
 <h1>Unit Converter App</h1>
-  <p>This repository contains the source code for the Android app <strong>Unit Converter Ap</strong>.
+  <p>This repository contains the source code for the Android app <strong>Unit Converter App</strong>.
     </p>
     <h2>Screenshots</h2>
     <div class="screenshot">
